@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "チノカテ",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2026-02-06T20:10:37.533110Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チノカテ",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_チノカテ_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "チノカテ",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_チノカテ_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "チノカテ",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/03_チノカテ_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "チノカテ (Chinokate)",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/04_チノカテ_(Chinokate)_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "チノカテ - Chinokate",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/05_チノカテ_-_Chinokate_Yorushika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チノカテ",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_チノカテ_ヨルシカ.txt"
+    }
+  ]
+}
